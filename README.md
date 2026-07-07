@@ -44,7 +44,7 @@ Juego voxel simple hecho con **LWJGL 3** (bindings de OpenGL/GLFW) y **JOML** (m
 
 ## Cómo compilar y ejecutar
 
-Requiere **Java 17+** y **Maven**. LWJGL descarga binarios nativos según tu sistema operativo: edita en `pom.xml` la propiedad `lwjgl.natives` según corresponda:
+Requiere **Java 21+** y **Maven**. LWJGL descarga binarios nativos según tu sistema operativo: edita en `pom.xml` la propiedad `lwjgl.natives` según corresponda:
 
 - Windows → `natives-windows`
 - Linux → `natives-linux` (valor por defecto)

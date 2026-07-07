@@ -25,6 +25,8 @@ public enum Block {
     public final boolean collectible;
     /** Nivel de luz que emite (0-15). Solo TORCH emite luz por ahora. */
     public final int lightEmission;
+    /** Tamaño máximo de pila para cualquier bloque en el inventario. */
+    public static final int MAX_STACK = 64;
 
     Block(float r, float g, float b, boolean transparent, float hardness, boolean collectible, int lightEmission) {
         this.r = r;
