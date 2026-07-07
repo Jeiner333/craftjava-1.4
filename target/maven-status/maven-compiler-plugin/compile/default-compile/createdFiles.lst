@@ -1,0 +1,9 @@
+com\miguel\craft\NoiseGen.class
+com\miguel\craft\World$RayHit.class
+com\miguel\craft\Block.class
+com\miguel\craft\ChunkRenderer$Face.class
+com\miguel\craft\ChunkRenderer.class
+com\miguel\craft\Main.class
+com\miguel\craft\World.class
+com\miguel\craft\Player.class
+com\miguel\craft\Chunk.class
